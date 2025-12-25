@@ -1,3 +1,5 @@
+from math import sqrt
+
 a = float(input("Value of a: "))
 b = float(input("Value of b: "))
 c = float(input("Value of c: "))
