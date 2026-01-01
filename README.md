@@ -1,2 +1,3 @@
 # Python-Programming-MOOC-2025
-A programming MOOC in python provided by the University of Helsinki
+A repositery about all the exercices I've done from the programming MOOC in python provided by the University of Helsinki.
+
